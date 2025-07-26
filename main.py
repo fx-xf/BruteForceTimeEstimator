@@ -45,7 +45,7 @@ class UI:
    ░░░░░░░░░░░     ░░░░░             ░░░░░       ░░░░░░░░░░ 
         """, style="bold cyan")
         
-        info_text = Text("Password Strength Analyzer - Developed by fx-xf", style="green")
+        info_text = Text("Brute Force Time Estimator - Developed by fx-xf", style="green")
         
         self.console.print(banner_text, justify="center")
         self.console.rule("[bold green]◈[/bold green]" * 3, style="green")
